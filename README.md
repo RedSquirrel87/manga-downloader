@@ -1,2 +1,2 @@
-# manga-downloader
-A very simple application written in JAVA to download any chapters of any manga from the supported websites
+# Manga Downloader
+Issue tracker for the Manga Downloader project https://redsquirrel87.com/manga-downloader
